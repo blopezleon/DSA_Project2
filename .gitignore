@@ -6,3 +6,5 @@ venv/
 .venv/
 data/raw/*.json
 data/processed/*.csv
+.cursor/
+src/jukeboxers/__pycache__/
